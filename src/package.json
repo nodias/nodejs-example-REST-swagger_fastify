@@ -1,0 +1,23 @@
+{
+  "name": "fastify-api",
+  "version": "1.0.0",
+  "description": "none",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "./node_modules/nodemon/bin/nodemon.js ./src/index.js"
+  },
+  "author": "kss",
+  "license": "ISC",
+  "dependencies": {
+    "boom": "^7.3.0",
+    "fastify-swagger": "^2.4.0",
+    "mongoose": "^5.7.4",
+    "nodemon": "^1.19.3"
+  },
+  "devDependencies": {
+    "fastify": "^2.10.0",
+    "mocha": "^6.2.1",
+    "node-mocks-http": "^1.8.0"
+  }
+}
