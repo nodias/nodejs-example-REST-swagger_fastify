@@ -1,6 +1,5 @@
 Mongoose :
-    몽구스는 당신의 앱 데이타를 모델링하기 위한 직관적인 스키마 기반의 솔루션을 제공합니다    
-    그것은 기본 제공 유형의 캐스팅과, 유효성 검사, 쿼리 작성, 비즈니스 로직 후크등을 즉시 제공합니다.
+    mongoDB ORM
     
 Fastify
-    Fastify는 웹 프레임워크이다
+    Fastify는 nodejs의 web Framework, node.js보다 빠른 속도
