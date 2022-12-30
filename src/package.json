@@ -17,7 +17,7 @@
   },
   "devDependencies": {
     "fastify": "^2.10.0",
-    "mocha": "^6.2.1",
+    "mocha": "^10.2.0",
     "node-mocks-http": "^1.8.0"
   }
 }
